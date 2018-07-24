@@ -1,0 +1,26 @@
+第一讲 语序和五种基本句式
+基本句式一，主语加谓语 S V
+基本句式二，主语加系动词加表语 S V P
+基本句式三，主语加谓语加宾语 S V O
+基本句式四，主语加谓语加间接宾语加直接宾语 S V o O
+基本句式五，主语加谓语加宾语加宾补. S V O C
+句式一:   Subject(主语)+Verb(谓语)
+             The universe remains.
+             宇宙长存。  
+句式二:  S(主语)+L.V(系动词)+P(表语)
+             The food is delicious.
+             这个食物很好吃。
+句式三: Subject(主语)+Verb(谓语)+Object(宾语)
+            He took his bag and left.
+            他拿着书包离开了。
+句式四: S(主语)+V(谓语)+I.o(间接宾语)+D.o(直接宾语)
+            Her father bought her a dictionary.
+            她爸爸给她买了一本词典。
+句式五: S(主语)+V(动词)+O(宾语)+C(补语)
+            We make him our monitor.
+            我们选他当班长。
+
+
+
+有志者事竟成!
+Nothing is impossible to a willing heart.
